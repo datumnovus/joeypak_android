@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoeyPak</string>
+    <string name="facebook_app_id">316819478783922</string>
+    <string name="fb_login_protocol_scheme">fb316819478783922</string>
+</resources>
